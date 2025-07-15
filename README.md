@@ -1,5 +1,5 @@
 # -BridgeLabz-SIPP-Training
-BridgeLabz SIPP Training 🧠
+
 Welcome to my GitHub repository documenting the journey of the BridgeLabz Program (SIPP) training. This repo contains all my daily learnings, assignments, and Java-based coding practice categorized by each day.
 
 📅 Day-Wise Progress
