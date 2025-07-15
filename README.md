@@ -6,115 +6,115 @@ Welcome to my GitHub repository documenting the journey of the BridgeLabz Progra
 
 ✅ Day 1: Java Basics & git setup
 
-Java Installation & IDE Setup
+• Java Installation & IDE Setup
 
-Writing your first HelloWorld.java
+• Writing your first HelloWorld.java
 
-Basics of compilation and execution
+•Basics of compilation and execution
 
-git commands and setup
+• git commands and setup
 
 ✅ Day 2: Java Fundamentals
 
-Java Comments
+• Java Comments
 
-Java Basic Data Types
+• Java Basic Data Types
 
-Java Variables
+• Java Variables
 
-Arithmetic Operators
+• Arithmetic Operators
 
-Operator Precedence
+• Operator Precedence
 
-Type Conversion
+• Type Conversion
 
-Taking User Input in Programs
+• Taking User Input in Programs
 
-Programs: Area of Circle,distance
+• Programs: Area of Circle,distance
 
 ✅ Day 3: Java Control Flows
 
-Java Control Flows
+• Java Control Flows
 
-Java boolean Data Type
+• Java boolean Data Type
 
-Boolean Expressions
+• Boolean Expressions
 
-Logical Operators
+• Logical Operators
 
-if Conditional Statement along with else if and final else statement
+• if Conditional Statement along with else if and final else statement
 
-Java loops - for and while
+• Java loops - for and while
 
-Java break and continue statement
+• Java break and continue statement
 
-Java switch Statement
+• Java switch Statement
 
 ✅ Day 4: Java Arrays
 
-Java Arrays
+• Java Arrays
 
-Create an Array
+• Create an Array
 
-Access an Array
+• Access an Array
 
-Accessing using for loop
+• Accessing using for loop
 
-Modifying an Array
+• Modifying an Array
 
-Using length property of array
+• Using length property of array
 
-Java Multi-demensional Array
+• Java Multi-demensional Array
 
-Java 2 Dimensional Array (Matrix)
+• Java 2 Dimensional Array (Matrix)
 
-Accessing, finding size, etc of Multi-Dimensional Array
+• Accessing, finding size, etc of Multi-Dimensional Array
 
-Using Java System error() message and exit() method
+• Using Java System error() message and exit() method
 
 ✅ Day 5: Strings
 
-Java Strings
+• Java Strings
 
-Create Strings
+• Create Strings
 
-Use of "" Escape Sequence
+• Use of "" Escape Sequence
 
-Take String Input
+• Take String Input
 
-String Arrays
+• String Arrays
 
-String as Method Parameters
+• String as Method Parameters
 
-String Class Built-In Methods
+• String Class Built-In Methods
 
-ASCII Character Codes
+• ASCII Character Codes
 
-Java Exceptions
+• Java Exceptions
 
-Java Exception Hierarchy
+• Java Exception Hierarchy
 
-Java Exception Types
+• Java Exception Types
 
-java.lang.RuntimeException or Unchecked Exceptions
+• java.lang.RuntimeException or Unchecked Exceptions
 
-Checked Exceptions
+• Checked Exceptions
 
 ✅ Day 6: Methods
 
-User Defined Methods
+• User Defined Methods
 
-Using Methods Multiple Times
+• Using Methods Multiple Times
 
-Making Methods more Dynamic
+• Making Methods more Dynamic
 
-Recursive Methods
+• Recursive Methods
 
-Java Static Methods
+• Java Static Methods
 
-Java Standard Library Methods
+• Java Standard Library Methods
 
-java.lang.Math class
+• java.lang.Math class
 
 ✅ Day 7: Built-in Functions
 
@@ -124,11 +124,11 @@ Java had some issues with how they handled dates and times, but newer versions
 
 ✅ Day 8: Java String Handling
 
-Handling strings and common string functions
+• Handling strings and common string functions
 
-Functions
+• Functions
 
-parameter passing, return
+• parameter passing, return
 
 
 ✅ Day 9: Object-Oriented Programming Fundamental
@@ -137,11 +137,11 @@ Java class and objects
 
 ✅ Day 10:Java Constructors,Instance vs Class Variables,Acces Modifiers Concepts
 
-Java Constructors,
+• Java Constructors,
 
-Instance vs. Class Variables,
+• Instance vs. Class Variables,
 
-Access Modifiers Concepts
+• Access Modifiers Concepts
 
 ✅ Day 11: this, static, final key words and instanceof operator Content
 this- static
@@ -151,47 +151,47 @@ Eclipse Editor Introduction and use
 
 ✅ Day 12: Object Modeling, Class Diagram
 
-Classes vs. Objects in Java
+• Classes vs. Objects in Java
 
-Class Diagram
+• Class Diagram
 
-Object Diagrams
+• Object Diagrams
 
-Sequence Diagrams
+• Sequence Diagrams
 
 ✅ Day 13: Workshop
 
-Student Grade Analyzer
+• Student Grade Analyzer
 
-E-commerce Product Catalog
+• E-commerce Product Catalog
 
-Quiz-App
+• Quiz-App
 
 ✅ Day 14: Inheritance
 
-Inheritance
+• Inheritance
 
-Single Level Inheritance
+• Single Level Inheritance
 
-Multilevel Inheritance
+• Multilevel Inheritance
 
-Hierarchical Inheritance
+• Hierarchical Inheritance
 
-Key Features of Inheritance
+• Key Features of Inheritance
 
-Method Overriding
+• Method Overriding
 
-Constructor Inheritance in Java
+• Constructor Inheritance in Java
 
-Polymorphism and Inheritance
+• Polymorphism and Inheritance
 
-Access Modifiers and Inheritance
+• Access Modifiers and Inheritance
 
 ✅ Day 15: Encapsulation,Polymorphism,Interface and Abstact Class
-Encapsulation
+• Encapsulation
 
-Polymorphism
+• Polymorphism
 
-Interface
+• Interface
 
-Abstract Classes
+• Abstract Classes
