@@ -1,4 +1,4 @@
-package JavaGenerics.Collections;
+package Collections;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -33,3 +33,4 @@ public class ShoppingCart {
         System.out.println("Items sorted by price (TreeMap): " + sortedByPrice);
     }
 }
+// 
